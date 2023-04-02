@@ -1,0 +1,3 @@
+/Users/yangtan/Desktop/workspace/C++/charpter5/cmake-build-debug/CMakeFiles/charpter5.dir
+/Users/yangtan/Desktop/workspace/C++/charpter5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yangtan/Desktop/workspace/C++/charpter5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
