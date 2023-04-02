@@ -1,3 +1,0 @@
-E:/Clionwork/NumericalAnalysis/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir
-E:/Clionwork/NumericalAnalysis/chapter3/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Clionwork/NumericalAnalysis/chapter3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
